@@ -1,0 +1,17 @@
+.bg1
+{
+    background-color: #E0CA3C;
+    color: #f5f6fa;
+}
+
+.bg2
+{
+    background-color: #F34213;
+    color: #f5f6fa;
+}
+
+.btn:hover
+{
+    background-color: #718093;
+
+}

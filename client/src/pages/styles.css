@@ -1,0 +1,19 @@
+.heading-text
+{
+    color: #347FC4;
+}
+
+.sub-headings
+{
+    color: #7D6B91;
+}
+.cont
+{
+    height: 80vh;
+   
+}
+
+.plan-list li:before {
+    content: '✓ ';
+  }
+
